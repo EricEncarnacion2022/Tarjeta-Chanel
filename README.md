@@ -1,3 +1,3 @@
 # Tarjeta-Chanel
 
-Tarjeta De Perfumes ( Chanel )
+Tarjeta De Perfumes Chanel
